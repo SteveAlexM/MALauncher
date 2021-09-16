@@ -1,2 +1,2 @@
-# MALauncher
-Gold
+# vgpu-shader-test
+Low-end
