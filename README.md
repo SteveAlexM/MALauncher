@@ -1,0 +1,2 @@
+# MALauncher
+Gold
